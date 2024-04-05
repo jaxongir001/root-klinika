@@ -1,0 +1,41 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "image": "https://global-mt.ru/upload/iblock/b79/la7lrnxi4uf7g7b3fkuo4oq1d7ctycut.jpg",
+        "name": "Ceiling Light",
+        "sos":"Анализатор мочи MIND UA-66",
+        "price": 71.0,
+        "sale": 85.0,
+        "click":"Добавить в корзину"
+        
+      },
+      {
+        "id": 2,
+        "image": "https://global-mt.ru/upload/iblock/abc/g6hb8iscg4vc6f67hcinrva14603baay.jpg",
+        "name": "Wood Chair",
+        "sos":"Анализатор мочи MIND UA-66",
+        "price": 123.4,
+        "sale": 150.0,
+        "click":"Добавить в корзину"
+      },
+      {
+        "id": 3,
+        "image": "https://global-mt.ru/upload/iblock/200/uvecjqw9000aahndc4khfxu4cu43ortm.jpg",
+        "name": "L-Shaped Corner",
+        "sos":"Анализатор мочи MIND UA-66",
+        "price": 123.4,
+        "sale": 150.0,
+        "click":"Добавить в корзину"
+      },
+      {
+        "id": 4,
+        "image": "https://global-mt.ru/upload/iblock/bd2/pyb7526llqm4b62mg3vg23a2z3jby36v.jpg",
+        "name": "Sofa",
+        "sos":"Анализатор мочи MIND UA-66",
+        "price": 123.4,
+        "sale": 150.0,
+        "click":"Добавить в корзину"
+      }
+    ]
+  }
